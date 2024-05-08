@@ -1,5 +1,5 @@
 document.title = 'hist0r1as brev3s pachec4s';
-let elTitul = document.createElement('h6');
+let elTitul = document.createElement('h3');
 elTitul.style.fontFamily = '"Lucida Console", "Courier New", monospace';
 elTitul.innerText = hb.sentir[0] + hb.sentir[1];
 let elBody = document.createElement('div');

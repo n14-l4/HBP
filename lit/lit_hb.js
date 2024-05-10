@@ -15,11 +15,11 @@ hb.sentir = [ 'elSentir', 'v0.0.6',
     En esa vuelta donde ya la frustración es la compañera, te quedas con el soñar, en el mañana se resolverá.
     Pasan no ya los días ni las semanas, sino años, años que sin querer se fueron como meses. Los gritos ya no funcionan, la victimización tampoco. No importa ya el cómo se llegó, o cuál era el destino, esa agua del alrededor pasa a ser el aburrimiento, el odio, el apego por pensar. La belleza se esconde para dar paso a la costumbre y de ella al olvido.
     a5  
-    Uno olvida la pasión que tuvo al construir ese navío, el telar, ese vela, el fruto o recompensa de un esfuerzo, un sentirse a gusto haciendo cualquier acto.
+    Uno olvida la pasión que tuvo al construir ese navío, el telar la vela, el fruto o recompensa de un esfuerzo, un sentirse a gusto haciendo cualquier acto.
     
     b2
     s1
-    En las lluvias más duras, uno, puede preguntarse por qué, como ese egoísmo aparente donde el afán de uno se convierte en un adiós de tantos. En la costa de donde partiste, el tiempo en el entorno que te moldeo, esas formas que sin querer te das cuenta de que están en ti. En ese pozo dentro del mar donde ni la lluvia ya te permite ver esas luces que te guiaban, ese odio, se convierte en amor, por  cada gota un recuerdo, el recuerdo de poder haber estado ahí, él sentía a gusto con los que te amaron, ese amor de entender o tratar de ver ese moldeo que me hizo. Podría haber hecho las cosas mejor, ayudado más, entender a los demás sin ser tan egoísta. Lo bueno que hiciera no desaparece, pero el ego de solo ver eso me aburre, además empiezo a creer en ver las que debería haber hecho mejor.
+    En las lluvias más duras, uno, puede preguntarse por qué, como ese egoísmo aparente donde el afán de uno se convierte en un adiós de tantos. En la costa de donde partiste, el tiempo en el entorno que te moldeó, esas formas que sin querer te das cuenta de que están en ti. En ese pozo dentro del mar donde ni la lluvia ya te permite ver esas luces que te guiaban, ese odio, se convierte en amor, por  cada gota un recuerdo, el recuerdo de poder haber estado ahí, el sentirse a gusto con los que te amaron, ese amor de entender o tratar de ver ese moldeo que me hizo. Podría haber hecho las cosas mejor, ayudado más, entender a los demás sin ser tan egoísta. Lo bueno que hiciera no desaparece, pero el ego de solo ver eso me aburre, además empiezo a creer en ver las que debería haber hecho mejor.
     a1
     Amistades, familia, parejas.
     a2
